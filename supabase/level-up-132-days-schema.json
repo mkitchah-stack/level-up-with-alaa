@@ -1,0 +1,6711 @@
+{
+  "meta": {
+    "brand": "LEVEL UP WITH ALAA",
+    "program": "BAC 2027 — 132 DAY STUDY SYSTEM",
+    "total_days": 132,
+    "subjects": [
+      "memorization",
+      "arabic",
+      "social_studies",
+      "english",
+      "sharia"
+    ]
+  },
+  "days": {
+    "1": {
+      "day": 1,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 1 الجزء أ :بداية الوحدة :بروز الصراع وتشكل العالم",
+          "description": "فهم الدرس عبر الذكاء االصطناعي | مشاهدة فيديو األستاذة هند",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "الصور البيانية",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 1 إلى 5",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "2": {
+      "day": 2,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 1 الجزء ب :بداية الوحدة :بروز الصراع وتشكل العالم",
+          "description": "معايير تشكل العالم | طبيعة العالقة بين المعسكرين | أسباب صراع الحرب الباردة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Ethics in Business",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 1 إلى 3",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "3": {
+      "day": 3,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 1 الدرس — 1 العقيدة اإلسالمية وأثرها على الفرد والمجتمع",
+          "description": "🎥 | 🧠 | فيديو الشيخ شمس الدين — 30 د | السلسلة البنفسجية للحفظ — 1 س | ️✏ السلسلة الخضراء للتمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "المحسنات البديعية",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 1 إلى 6",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "4": {
+      "day": 4,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 2 الجزء أ :االستراتيجيات",
+          "description": "مراجعة عناوين اليوم األول | اﻟﺘﻲ ﺗﻢ ﺣﻔﻈﻬﺎ ﺳﺎﺑﻘﺎ",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "األساليب",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 1 إلى 4",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "5": {
+      "day": 5,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 2 الجزء ب :االستراتيجيات",
+          "description": "استراتيجيات الكتلة الغربية | استراتيجيات الكتلة الشرقية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": ")Expressing condition (providing that; as long as...",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 6 إلى 10",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "6": {
+      "day": 6,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 2 الدرس — 2 وسائل القرآن في تثبيت العقيدة اإلسالمية",
+          "description": "🎥 | 🧠 | فيديو الشيخ شمس الدين — 30 د | السلسلة البنفسجية للحفظ — 1 س | ️✏ السلسلة الخضراء للتمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing wish",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 4 إلى 6",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "7": {
+      "day": 7,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 3 الجزء أ :الخاتمة واألهداف",
+          "description": "مراجعة عناوين اليوم الثاني",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "محل الجملة من اإلعراب",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 7 إلى 12",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "8": {
+      "day": 8,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 3 الجزء ب :الخاتمة واألهداف",
+          "description": "نتائج الصراع | األهداف الحقيقية والخفية للمشاريع",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "It's High time / It's about time",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 5 إلى 8",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "9": {
+      "day": 9,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 3 الدرس — )١( 3 اإلسالم والرساالت السماوية",
+          "description": "🎥 | 🧠 | فيديو — 1 س | حفظ — 1 س",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "الفرق بين الحال والتمييز",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 10",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "10": {
+      "day": 10,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 4 الجزء أ :تثبيت الدرس األول",
+          "description": "مراجعة شاملة | ﻟﻠﺪرس اﻻول ﺗﺎرﻳﺦ",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "البدل وعطف البيان",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 6",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "11": {
+      "day": 11,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 4 الجزء ب :تثبيت الدرس األول",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing advice",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 12",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "12": {
+      "day": 12,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 4 الدرس — )٢( 3 اإلسالم والرساالت السماوية",
+          "description": "اﻟﺠﺰء اﻟﺜﺎﻧﻲ | حفظ — 1 س 30 د 🧠 | ️✏ تمارين — 30 د",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "So that ... / such ... that",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 8",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "13": {
+      "day": 13,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 5 الجزء أ :التعايش السلمي",
+          "description": "فهم الدرس عبر الذكاء االصطناعي | مشاهدة فيديو األستاذة هند",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "إعراب الفعل المتعدي إلى أكثر من مفعولين",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 11 إلى 15",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "14": {
+      "day": 14,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 5 الجزء ب :التعايش السلمي",
+          "description": "الظروف الدولية | أسباب التعايش السلمي | مظاهر التعايش السلمي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Cause and effects",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 7 إلى 9",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "15": {
+      "day": 15,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة شاملة",
+          "title": "مراجعة شاملة للدروس 3–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "اإلعراب اللفظي واإلعراب التقديري",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 13 إلى 18",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "16": {
+      "day": 16,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 6 الجزء أ :حركة عدم االنحياز",
+          "description": "مراجعة عناوين اليوم الخامس | اﻟﺘﻲ ﺗﻢ ﺣﻔﻈﻬﺎ ﻣﻦ اﻟﺪرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "إعراب إذا",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 9 إلى 12",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "17": {
+      "day": 17,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 6 الجزء ب :حركة عدم االنحياز",
+          "description": "نتائج التعايش السلمي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Passive voice",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 16 إلى 20",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "18": {
+      "day": 18,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 6 الدرس — 4 العقل في القرآن الكريم",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س | ️✏ تمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing obligation and necessity / Prohibition",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 10 إلى 12",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "19": {
+      "day": 19,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 7 الجزء أ :تثبيت الدرس الثاني",
+          "description": "حفظ عناصر الدرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "إعراب إذ",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 19 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "20": {
+      "day": 20,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 7 الجزء ب :تثبيت الدرس الثاني",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Syllables",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 13 إلى 16",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "21": {
+      "day": 21,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 7 الدرس — 5 مقاصد الشريعة اإلسالمية",
+          "description": "🎥 | 🧠 | فيديو — 45 د | حفظ — 45 د | ️✏ تمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "إعراب لو ،لوال ،لوما",
+          "description": "البناء اللغوي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 20",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "22": {
+      "day": 22,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 8 الجزء أ :األحادية القطبية",
+          "description": "فهم الدرس عبر الذكاء االصطناعي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "عصر الضعف واالنحطاط",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 12",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "23": {
+      "day": 23,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 8 الجزء ب :األحادية القطبية",
+          "description": "أسباب تفكك الكتلة الشرقية | مظاهر التفكك",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": ")Formation of Opposites (Unit 01",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "24": {
+      "day": 24,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 8 الدرس — )١( 6 منهج اإلسالم في محاربة االنحراف والجريمة",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Formation of Verb / noun / adjective",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 16",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "25": {
+      "day": 25,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 9 الجزء أ :النظام الدولي الجديد",
+          "description": "مراجعة عناوين اليوم الثامن | اﻟﺘﻲ ﺗﻢ ﺣﻔﻈﻬﺎ ﻣﻦ اﻟﺪرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "الرابطة القلمية",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 21 إلى 25",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "26": {
+      "day": 26,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 9 الجزء ب :النظام الدولي الجديد",
+          "description": "مفهوم النظام الدولي الجديد | أهدافه ومؤسساته",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Safety first",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 13 إلى 15",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "27": {
+      "day": 27,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 9 الدرس — )٢( 6 منهج اإلسالم في محاربة االنحراف والجريمة",
+          "description": "حفظ — 1 س 30 د 🧠 | ️✏ تمارين — 30 د",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "النثر العلمي المتأدب",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 25 إلى 30",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "28": {
+      "day": 28,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 10 الجزء أ :المراجعة الشاملة (تاريخ)",
+          "description": "مراجعة الدرس األول",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "االلتزام في األدب",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 17 إلى 20",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "29": {
+      "day": 29,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 10 الجزء ب :المراجعة الشاملة (تاريخ)",
+          "description": "مراجعة الدرس الثاني | مراجعة الدرس الثالث",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing Degree of certainty and Doubt",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 26 إلى 30",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "30": {
+      "day": 30,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 6–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Gerund",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 16 إلى 18",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "31": {
+      "day": 31,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "اﻟﺠﻐﺮاﻓﻴﺎ",
+          "description": "والتخلف الدرس — 11 الجزء أ :التقدم | فهم الدرس عبر الذكاء االصطناعي | مشاهدة فيديو توضيحي",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "السياسي",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 31 إلى 36",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "32": {
+      "day": 32,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 11 الجزء ب :التقدم والتخلف",
+          "description": "معايير تصنيف العالم | أسباب التقدم والتخلف",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Quantifiers",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 21 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "33": {
+      "day": 33,
+      "month": 1,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 11 الدرسان 7 و — 8 المساواة أمام أحكام الشريعة اإلسالمية في العقوبات",
+          "description": "🎥 | 🧠 | فيديو (لكل درس) — 30 د | حفظ (لكل درس) — 1 س | ️✏ تمارين (لكل درس) — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "االجتماعي",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 30",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "34": {
+      "day": 34,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 12 الجزء أ :مظاهر التفاوت",
+          "description": "مراجعة المعايير واألسباب",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "الرمز",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 18",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "35": {
+      "day": 35,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 12 الجزء ب :مظاهر التفاوت",
+          "description": "مظاهر التقدم والتخلف | تصنيف دول العالم",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing Conditional Type 01",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 36",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "36": {
+      "day": 36,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 12 الدرس — )١( 9 من مصادر التشريع اإلسالمي :اإلجماع ،القياس ،المصلحة المرسلة",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Expressing Concession",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "37": {
+      "day": 37,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 13 الجزء أ :تثبيت الدرس األول",
+          "description": "حفظ عناصر الدرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "درس جديد",
+          "title": "المقال",
+          "description": "البناء الفكري",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 31 إلى 35",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "38": {
+      "day": 38,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 13 الجزء ب :تثبيت الدرس األول",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Speech Direct / indirect",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 19 إلى 21",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "39": {
+      "day": 39,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 13 الدرس — )٢( 9 من مصادر التشريع اإلسالمي :اإلجماع ،القياس ،المصلحة المرسلة",
+          "description": "حفظ — 1 س 30 د 🧠 | ️✏ تمارين — 30 د",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()1",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 37 إلى 42",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "40": {
+      "day": 40,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 14 الجزء أ :المواد االستراتيجية",
+          "description": "فهم الدرس عبر الذكاء االصطناعي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()2",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 25 إلى 28",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "41": {
+      "day": 41,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 14 الجزء ب :المواد االستراتيجية",
+          "description": "العوامل المتحكمة في األسعار | أهمية المواد االستراتيجية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Asking Questions",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 36 إلى 40",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "42": {
+      "day": 42,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 9 + 8 + 7",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": ")Final (S",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 22 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "43": {
+      "day": 43,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 15 الجزء أ :األوبك وحركة رؤوس األموال",
+          "description": "مراجعة ما سبق",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()3",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 43 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "44": {
+      "day": 44,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 15 الجزء ب :األوبك وحركة رؤوس األموال",
+          "description": "منظمة األوبك | حركة رؤوس األموال",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Division of World",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 29 إلى 32",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "45": {
+      "day": 45,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 6–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()4",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 40",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "46": {
+      "day": 46,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 16 الجزء أ :تثبيت الدرس الثاني (جغرافيا)",
+          "description": "مراجعة شاملة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()5",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 24",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "47": {
+      "day": 47,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 16 الجزء ب :تثبيت الدرس الثاني (جغرافيا)",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Astronomy and Solar System",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "48": {
+      "day": 48,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة شاملة",
+          "title": "مراجعة شاملة للدروس 9–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Asking Question about purpose",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 32",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "49": {
+      "day": 49,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 17 الجزء أ :مراجعة نهائية (جغرافيا)",
+          "description": "مراجعة مظاهر التقدم والتخلف",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()6",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 41 إلى 45",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "50": {
+      "day": 50,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 17 الجزء ب :مراجعة نهائية (جغرافيا)",
+          "description": "تصنيف دول العالم",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Asking Question about : size - Distance",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 25 إلى 27",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "51": {
+      "day": 51,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 17 الدرس — 10 القيم في القرآن الكريم",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س | ️✏ تمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()7",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 49 إلى 54",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "52": {
+      "day": 52,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 18 الجزء أ :المراجعة الكبرى",
+          "description": "مراجعة تاريخ",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()8",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 33 إلى 36",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "53": {
+      "day": 53,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 18 الجزء ب :المراجعة الكبرى",
+          "description": "مراجعة جغرافيا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Comparative of adjective",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 46 إلى 50",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "54": {
+      "day": 54,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 18 الدرس — 11 الوقف في اإلسالم",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س | ️✏ تمارين — 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Similarities and Differences",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 28 إلى 30",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "55": {
+      "day": 55,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 19 الجزء أ :التحضير واالندالع",
+          "description": "فهم الدرس عبر الذكاء االصطناعي | مشاهدة فيديو األستاذة هند",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()9",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 55 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "56": {
+      "day": 56,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 19 الجزء ب :التحضير واالندالع",
+          "description": "محطات التحضير | ظروف اندالع الثورة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": "Conditional Type 03",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 37 إلى 40",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "57": {
+      "day": 57,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 19 الدرس — )١( 12 من أحكام األسرة في اإلسالم :مدخل إلى علم المواريث",
+          "description": "فيديو — 2 س 🎥",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()10",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 50",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "58": {
+      "day": 58,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 20 الجزء أ :صراع االستراتيجيات",
+          "description": "مراجعة ما سبق",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()11",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 30",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "59": {
+      "day": 59,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 20 الجزء ب :صراع االستراتيجيات",
+          "description": "استراتيجيات الثورة | استراتيجيات االستعمار",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "درس جديد",
+          "title": ")Final (ed",
+          "description": null,
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [
+            "شاهدت الفيديو",
+            "وضعت ملخًصا"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "60": {
+      "day": 60,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 20 الدرس — )٢( 12 من أحكام األسرة في اإلسالم :مدخل إلى علم المواريث",
+          "description": "حفظ — 2 س 🧠",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (1",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 40",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "61": {
+      "day": 61,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 21 الجزء أ :النجاح والمفاوضات",
+          "description": "مراجعة االستراتيجيات | مظاهر النجاح",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()12",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 51 إلى 55",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "62": {
+      "day": 62,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 21 الجزء ب :النجاح والمفاوضات",
+          "description": "المفاوضات | مبادئ جبهة التحرير",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (2",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 31 إلى 33",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "63": {
+      "day": 63,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 21 الدرس — )٣( 12 من أحكام األسرة في اإلسالم :مدخل إلى علم المواريث",
+          "description": "السلسلة الخضراء للتمارين — 1 س ️✏",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()13",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 61 إلى 66",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "64": {
+      "day": 64,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 22 الجزء أ :تثبيت درس الثورة",
+          "description": "مراجعة شاملة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()14",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 41 إلى 44",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "65": {
+      "day": 65,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 22 الجزء ب :تثبيت درس الثورة",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (3",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 56 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "66": {
+      "day": 66,
+      "month": 2,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 12–10",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (4",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 34 إلى 36",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "67": {
+      "day": 67,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 23 الجزء أ :بناء الدولة الجزائرية",
+          "description": "فهم الدرس عبر الذكاء االصطناعي | مشاهدة فيديو",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()15",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 67 إلى 72",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "68": {
+      "day": 68,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 23 الجزء ب :بناء الدولة الجزائرية",
+          "description": "ظروف قيام الدولة | مواثيق الثورة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (5",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 45 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "69": {
+      "day": 69,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 23 الدرس — )١( 13 الربا وأحكامه",
+          "description": "🎥 | 🧠 | فيديو — 30 د | حفظ — 1 س 30 د",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()16",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "70": {
+      "day": 70,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 24 الجزء أ :االختيارات الكبرى",
+          "description": "مراجعة ما سبق",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()17",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 36",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "71": {
+      "day": 71,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 24 الجزء ب :االختيارات الكبرى",
+          "description": "االختيارات الكبرى | التطور السياسي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (6",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 72",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "72": {
+      "day": 72,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 24 الدرس — )٢( 13 الربا وأحكامه",
+          "description": "حفظ — 1 س 30 د 🧠 | ️✏ تمارين — 30 د",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (7",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "73": {
+      "day": 73,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 25 الجزء أ :تثبيت درس بناء الدولة",
+          "description": "مراجعة شاملة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()18",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 61 إلى 65",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "74": {
+      "day": 74,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 25 الجزء ب :تثبيت درس بناء الدولة",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (8",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 37 إلى 39",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "75": {
+      "day": 75,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 6–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()19",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 73 إلى 78",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "76": {
+      "day": 76,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس :26 المراجعة الكبرى للثورة",
+          "description": "مراجعة كاملة للوحدة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()20",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 49 إلى 52",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "77": {
+      "day": 77,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 27 الجزء أ :الواليات المتحدة (الوسط واألقاليم)",
+          "description": "فهم الدرس | مشاهدة فيديو",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (9",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 66 إلى 70",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "78": {
+      "day": 78,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "المراجعة النهائية للدروس 13–7",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (10",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 40 إلى 42",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "79": {
+      "day": 79,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 27 الجزء ب :الواليات المتحدة (الوسط واألقاليم)",
+          "description": "الوسط الطبيعي والبشري | األقاليم االقتصادية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()21",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 79 إلى 84",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "80": {
+      "day": 80,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 28 الجزء أ :الواليات المتحدة (القوة والمشاكل)",
+          "description": "مراجعة ما سبق | مظاهر القوة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (11",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 53 إلى 56",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "81": {
+      "day": 81,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 27 الدرس — 14 من المعامالت المالية الجائزة :بيع الصرف ،بيع المرابحة ،بيع التقسيط",
+          "description": "🎥 | 🧠 | [مدة الفيديو]____ : | حفظ — [مدة]____ : | ️✏ تمارين — [مدة]____ :",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()22",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 70",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "82": {
+      "day": 82,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "درس جديد",
+          "title": "الدرس — 28 الجزء ب :الواليات المتحدة (القوة والمشاكل)",
+          "description": "تأثيرها العالمي | المشاكل والمعيقات",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()23",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 42",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "83": {
+      "day": 83,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 29 الجزء أ :مراجعة شاملة للواليات المتحدة",
+          "description": "مراجعة عناصر الدرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (12",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 84",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "84": {
+      "day": 84,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 28 الدرس — 15 الحرية الشخصية ومدى ارتباطها بحرية اآلخر",
+          "description": "🎥 | 🧠 | [مدة الفيديو]____ : | حفظ — [مدة]____ : | ️✏ تمارين — [مدة]____ :",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (13",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 56",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "85": {
+      "day": 85,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 29 الجزء ب :مراجعة شاملة للواليات المتحدة",
+          "description": "التركيز على الخرائط",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()24",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 71 إلى 75",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "86": {
+      "day": 86,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 30 الجزء أ :مراجعة الوحدة األولى",
+          "description": "تاريخ",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (14",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 43 إلى 45",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "87": {
+      "day": 87,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": null,
+          "title": "اليوم — 29 الدرس — 16 من أحكام األسرة في اإلسالم :النسب ،التبني ،الكفالة",
+          "description": "🎥 | 🧠 | [مدة الفيديو]____ : | حفظ — [مدة]____ : | ️✏ تمارين — [مدة]____ :",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()25",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 85 إلى 90",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "88": {
+      "day": 88,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 30 الجزء ب :مراجعة الوحدة األولى",
+          "description": "جغرافيا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()26",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 57 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "89": {
+      "day": 89,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 31 الجزء أ :االتحاد األوروبي",
+          "description": "فهم الدرس | مشاهدة فيديو",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (15",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 76 إلى 80",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "90": {
+      "day": 90,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 30 الدرس — 17 العالقات االجتماعية بين المسلمين وغيرهم",
+          "description": "🎥 | 🧠 | [مدة الفيديو]____ : | حفظ — [مدة]____ : | ️✏ تمارين — [مدة]____ :",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (16",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 46 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "91": {
+      "day": 91,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 31 الجزء ب :االتحاد األوروبي",
+          "description": "عوامل القوة | المعيقات",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()27",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 91 إلى 96",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "92": {
+      "day": 92,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 32 الجزء أ :التكتل وإقليم الراين",
+          "description": "مراجعة ما سبق | إقليم الراين",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (17",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 61 إلى 64",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "93": {
+      "day": 93,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "درس جديد",
+          "title": "اليوم — 31 الدرس — 18 خطبة الرسول ﷺ في حجة الوداع",
+          "description": "🎥 | 🧠 | [مدة الفيديو]____ : | حفظ — [مدة]____ : | ️✏ تمارين — [مدة]____ :",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()28",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 80",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "94": {
+      "day": 94,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 32 الجزء ب :التكتل وإقليم الراين",
+          "description": "دور التكتل | حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()29",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 48",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "95": {
+      "day": 95,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 33 الجزء أ :التنينات والنمور",
+          "description": "فهم الدرس | مشاهدة فيديو",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (18",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 96",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "96": {
+      "day": 96,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "مراجعة الدروس 18–14",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (19",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 64",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "97": {
+      "day": 97,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 33 الجزء ب :التنينات والنمور",
+          "description": "التحديد الجغرافي | دور العنصر البشري",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()30",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 81 إلى 85",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "98": {
+      "day": 98,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 34 الجزء أ :سر النهضة اآلسيوية",
+          "description": "سياسات التنمية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (20",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 49 إلى 51",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "99": {
+      "day": 99,
+      "month": 3,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "المراجعة الشاملة لكل دروس الشريعة ()18–1",
+          "description": "مراجعة وتثبيت",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()31",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 97 إلى 102",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "100": {
+      "day": 100,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 34 الجزء ب :سر النهضة اآلسيوية",
+          "description": "المكانة العالمية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()32",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 65 إلى 68",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "101": {
+      "day": 101,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 35 الجزء أ :تثبيت درس آسيا",
+          "description": "مراجعة شاملة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (21",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 86 إلى 90",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "102": {
+      "day": 102,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()1",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (22",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 52 إلى 54",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "103": {
+      "day": 103,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 35 الجزء ب :تثبيت درس آسيا",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()33",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 103 إلى 108",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "104": {
+      "day": 104,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 36 الجزء أ :المراجعة الكبرى",
+          "description": "مراجعة وحدة الثورة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (23",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 69 إلى 72",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "105": {
+      "day": 105,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()2",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()34",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 90",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "106": {
+      "day": 106,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 36 الجزء ب :المراجعة الكبرى",
+          "description": "مراجعة جغرافيا الوحدة الثانية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()35",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 54",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "107": {
+      "day": 107,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 37 الجزء أ :العودة للجذور",
+          "description": "مراجعة الحرب الباردة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (24",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 108",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "108": {
+      "day": 108,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()3",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (25",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 72",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "109": {
+      "day": 109,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 37 الجزء ب :العودة للجذور",
+          "description": "مراجعة االقتصاد العالمي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()36",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 91 إلى 95",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "110": {
+      "day": 110,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 38 الجزء أ :تراجع االستعمار",
+          "description": "فهم الدرس | مشاهدة فيديو",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (26",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 55 إلى 57",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "111": {
+      "day": 111,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()4",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()37",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 109 إلى 114",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "112": {
+      "day": 112,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 38 الجزء ب :تراجع االستعمار",
+          "description": "ظروف ظهور الحركات | مواقف المعسكرين | االستعمار المقنع",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()38",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "🌍 حفظ جديد :المصطلحات الجغرافية من 73 إلى 76",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "113": {
+      "day": 113,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 39 الجزء أ :أساليب التحرر",
+          "description": "مراجعة ما سبق",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (27",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 96 إلى 100",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "114": {
+      "day": 114,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()5",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (28",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 58 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "115": {
+      "day": 115,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 39 الجزء ب :أساليب التحرر",
+          "description": "أساليب التحرر | حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()39",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 115 إلى 120",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "116": {
+      "day": 116,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 40 الجزء أ :القضية الفلسطينية",
+          "description": "فهم الدرس",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (29",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 76",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "117": {
+      "day": 117,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()6",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()40",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 100",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "118": {
+      "day": 118,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 40 الجزء ب :القضية الفلسطينية",
+          "description": "مشاهدة فيديو | خلفيات الصراع",
+          "has_video": true,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()41",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 60",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "119": {
+      "day": 119,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة شاملة",
+          "title": "الدرس — 41 الجزء أ :معاهدات السالم",
+          "description": "مراجعة شاملة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (30",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 120",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "120": {
+      "day": 120,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()7",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (31",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 76",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "121": {
+      "day": 121,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 41 الجزء ب :معاهدات السالم",
+          "description": "معاهدات السالم",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()42",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📅 حفظ جديد :التواريخ المهمة من 101 إلى 102",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "122": {
+      "day": 122,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 42 الجزء أ :الجزائر في العالم",
+          "description": "مكانة االقتصاد الجزائري",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (32",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 61 إلى 63",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "123": {
+      "day": 123,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()8",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()43",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 121 إلى 126",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "124": {
+      "day": 124,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 42 الجزء ب :الجزائر في العالم",
+          "description": "تطبيقات وأسئلة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()44",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 76",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "125": {
+      "day": 125,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "الدرس — 43 الجزء أ :نموذج البرازيل",
+          "description": "دراسة االقتصاد البرازيلي",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (33",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📅 مراجعة :التواريخ المهمة من 1 إلى 102",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "126": {
+      "day": 126,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()9",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (34",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "👤 حفظ جديد :الشخصيات التاريخية من 64 إلى 66",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "127": {
+      "day": 127,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "حل أسئلة البكالوريا",
+          "title": "الدرس — 43 الجزء ب :نموذج البرازيل",
+          "description": "حل أسئلة البكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()45",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "حفظ جديد",
+          "title": "📖 حفظ جديد :المصطلحات التاريخية من 127 إلى 131",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "128": {
+      "day": 128,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 44 الجزء أ :ختام الوحدات الثالثة",
+          "description": "مراجعة الوحدة الثالثة تاريخ",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (35",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "🌍 مراجعة :المصطلحات الجغرافية من 1 إلى 76",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "129": {
+      "day": 129,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()10",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()46",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": null,
+          "title": "📅 اختبار شامل :كل عناصر التواريخ المهمة ()102–١",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "130": {
+      "day": 130,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": "مراجعة",
+          "title": "الدرس — 44 الجزء ب :ختام الوحدات الثالثة",
+          "description": "مراجعة الوحدة الثالثة جغرافيا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "arabic",
+          "subject_label_ar": "اللغة العربية",
+          "task_type": "تطبيق بكالوريا",
+          "title": "حل موضوع بكالوريا في اللغة العربية ()47",
+          "description": "حل موضوع بكالوريا في اللغة العربية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "👤 مراجعة :الشخصيات التاريخية من 1 إلى 66",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "131": {
+      "day": 131,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "social_studies",
+          "subject_label_ar": "الدراسات االجتماعية",
+          "task_type": null,
+          "title": "تطبيقات بكالوريا — تاريخ/جغرافيا ()1",
+          "description": "حل موضوع بكالوريا تاريخ /جغرافيا | تحليل الوثائق | تدريب المقالة | الخرائط عند الحاجة",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (36",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": "مراجعة",
+          "title": "📖 مراجعة :المصطلحات التاريخية من 1 إلى 131",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    },
+    "132": {
+      "day": 132,
+      "month": 4,
+      "tasks": [
+        {
+          "task_number": 1,
+          "subject": "sharia",
+          "subject_label_ar": "الشريعة اإلسالمية",
+          "task_type": "مراجعة",
+          "title": "تطبيقات بكالوريا — الشريعة ()11",
+          "description": "حل أسئلة بكالوريا",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء",
+            "مراجعة النقاط الضعيفة"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 2,
+          "subject": "english",
+          "subject_label_ar": "English",
+          "task_type": "تطبيق بكالوريا",
+          "title": ")English BAC practice paper (37",
+          "description": "حل موضوع بكالوريا في اإلنجليزية",
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "تصحيح األخطاء"
+          ],
+          "resources": []
+        },
+        {
+          "task_number": 3,
+          "subject": "memorization",
+          "subject_label_ar": "الحفظ اليومي",
+          "task_type": null,
+          "title": "🌍 اختبار شامل :كل عناصر المصطلحات الجغرافية ()76–١",
+          "description": null,
+          "has_video": false,
+          "video_url": null,
+          "checklist_items": [
+            "أنجزت الحفظ"
+          ],
+          "resources": []
+        }
+      ],
+      "max_stars": 3
+    }
+  },
+  "weekly_reviews": [
+    {
+      "week_number": 1,
+      "from_day": 1,
+      "to_day": 7,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 2,
+      "from_day": 8,
+      "to_day": 14,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 3,
+      "from_day": 15,
+      "to_day": 21,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 4,
+      "from_day": 22,
+      "to_day": 28,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 5,
+      "from_day": 29,
+      "to_day": 35,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 6,
+      "from_day": 36,
+      "to_day": 42,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 7,
+      "from_day": 43,
+      "to_day": 49,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 8,
+      "from_day": 50,
+      "to_day": 56,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 9,
+      "from_day": 57,
+      "to_day": 63,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 10,
+      "from_day": 64,
+      "to_day": 70,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 11,
+      "from_day": 71,
+      "to_day": 77,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 12,
+      "from_day": 78,
+      "to_day": 84,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 13,
+      "from_day": 85,
+      "to_day": 91,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 14,
+      "from_day": 92,
+      "to_day": 98,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 15,
+      "from_day": 99,
+      "to_day": 105,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 16,
+      "from_day": 106,
+      "to_day": 112,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 17,
+      "from_day": 113,
+      "to_day": 119,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 18,
+      "from_day": 120,
+      "to_day": 126,
+      "max_stars": 21,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    },
+    {
+      "week_number": 19,
+      "from_day": 127,
+      "to_day": 132,
+      "max_stars": 18,
+      "fields": {
+        "stars_earned": null,
+        "goal": null,
+        "missed_stars": null,
+        "recovered_stars": null,
+        "progress_percent": null,
+        "what_i_accomplished": null,
+        "what_to_improve": null
+      }
+    }
+  ],
+  "monthly_reviews": [
+    {
+      "month_number": 1,
+      "from_day": 1,
+      "to_day": 33,
+      "max_stars": 99,
+      "fields": {
+        "goal": null,
+        "subjects_completed": null,
+        "memorization_completed": null,
+        "stars_total": null,
+        "progress_percent": null,
+        "biggest_achievement": null,
+        "improve_next_month": null
+      }
+    },
+    {
+      "month_number": 2,
+      "from_day": 34,
+      "to_day": 66,
+      "max_stars": 99,
+      "fields": {
+        "goal": null,
+        "subjects_completed": null,
+        "memorization_completed": null,
+        "stars_total": null,
+        "progress_percent": null,
+        "biggest_achievement": null,
+        "improve_next_month": null
+      }
+    },
+    {
+      "month_number": 3,
+      "from_day": 67,
+      "to_day": 99,
+      "max_stars": 99,
+      "fields": {
+        "goal": null,
+        "subjects_completed": null,
+        "memorization_completed": null,
+        "stars_total": null,
+        "progress_percent": null,
+        "biggest_achievement": null,
+        "improve_next_month": null
+      }
+    },
+    {
+      "month_number": 4,
+      "from_day": 100,
+      "to_day": 132,
+      "max_stars": 99,
+      "fields": {
+        "goal": null,
+        "subjects_completed": null,
+        "memorization_completed": null,
+        "stars_total": null,
+        "progress_percent": null,
+        "biggest_achievement": null,
+        "improve_next_month": null
+      }
+    }
+  ],
+  "final_check": {
+    "total_days": 132,
+    "metrics": [
+      {
+        "label": "SS sessions",
+        "value": 87,
+        "target": 87
+      },
+      {
+        "label": "Sharia internal days",
+        "value": 33,
+        "target": 33
+      },
+      {
+        "label": "Arabic topics",
+        "value": 19,
+        "target": 19
+      },
+      {
+        "label": "English tasks",
+        "value": 29,
+        "target": 29
+      },
+      {
+        "label": "SS BAC-practice days",
+        "value": 1,
+        "target": 1
+      },
+      {
+        "label": "Sharia BAC-practice days",
+        "value": 11,
+        "target": 11
+      },
+      {
+        "label": "Arabic BAC-practice days",
+        "value": 47,
+        "target": 47
+      },
+      {
+        "label": "English BAC-practice days",
+        "value": 37,
+        "target": 37
+      }
+    ],
+    "raw_text": [
+      "FINAL CHECK",
+      "التحقق النهائي من البرنامج",
+      "✓ 132 Total days",
+      "✓ 87 / 87 SS sessions used",
+      "✓ 33 / 33 Sharia internal days used",
+      "✓ 19 / 19 Arabic topics used",
+      "✓ 29 / 29 English tasks used",
+      "✓1 SS BAC-practice days added",
+      "✓ 11 Sharia BAC-practice days added",
+      "✓ 47 Arabic BAC-practice days added",
+      "✓ 37 English BAC-practice days added",
+      ". دون حذف أو دمج أو اختراع — تم التحقق برمجًيا44تم الحفاظ على جميع المهام األصلية الـ"
+    ]
+  }
+}
